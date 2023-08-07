@@ -3,7 +3,7 @@ let count =0;
 const increaseBtn = document.querySelector("#increase");
 const decreaseBtn = document.querySelector("#decrease");
 
-function displayCounter() {
+function increaseCounter() {
   count ++;
  document.getElementById('count').innerHTML =count
  };
