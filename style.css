@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+    height: 80vh;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+div h1 {
+    font-size: 200px;
+}
+button {
+ font-size: 20px;
+}
